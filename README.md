@@ -4,5 +4,8 @@
 2) Daily Coding Plan: https://shahbazalamjobs.hashnode.dev/my-coding-plans
 
 
+FrontEnd Plan
+1) Internet: https://shahbazalamjobs.hashnode.dev/internet
+
 
 
