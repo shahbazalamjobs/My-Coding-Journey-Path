@@ -5,8 +5,7 @@
 
 
 FrontEnd Plan
-1) Internet: https://shahbazalamjobs.hashnode.dev/internet
+1) Internet: https://shahbazalamjobs.hashnode.dev/internet-1
 2) HTTP: https://shahbazalamjobs.hashnode.dev/hypertext-transfer-protocols-http
-
 
 
